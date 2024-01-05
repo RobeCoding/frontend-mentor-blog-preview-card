@@ -9,9 +9,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,5 +23,5 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHubPge](https://your-live-site-url.com)
+- Live Site URL: [GitHubPge](https://robecoding.github.io/frontend-mentor-blog-preview-card/)
 
